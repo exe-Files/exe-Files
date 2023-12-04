@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @exe-Files
+- 👋 Hi there, I’m Brandon
 <!-- - 🌱 I’m currently learning  -->
 - 📫 Reach me via <a href="https://linkedin.com/bfiles"> LinkedIn </a>
 
