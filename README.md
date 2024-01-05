@@ -1,6 +1,5 @@
-- 👋 Hi there, I’m Brandon
 <!-- - 🌱 I’m currently learning  -->
-- 📫 Reach me via <a href="https://linkedin.com/bfiles"> LinkedIn </a>
+Reach me via <a href="https://linkedin.com/in/bfiles"> LinkedIn </a>
 
 <!---
 exe-Files/exe-Files is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
